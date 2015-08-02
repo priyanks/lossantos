@@ -1,0 +1,14 @@
+c:\users\priyank\documents\visual studio 2012\Projects\FriendSimulation\FriendSimulation\bin\Debug\FriendSimulation.exe.config
+C:\Users\Priyank\documents\visual studio 2012\Projects\FriendSimulation\FriendSimulation\bin\Debug\FriendSimulation.exe
+C:\Users\Priyank\documents\visual studio 2012\Projects\FriendSimulation\FriendSimulation\bin\Debug\FriendSimulation.pdb
+C:\Users\Priyank\documents\visual studio 2012\Projects\FriendSimulation\FriendSimulation\obj\Debug\FriendSimulation.csprojResolveAssemblyReference.cache
+C:\Users\Priyank\documents\visual studio 2012\Projects\FriendSimulation\FriendSimulation\obj\Debug\FriendSimulation.Form1.resources
+C:\Users\Priyank\documents\visual studio 2012\Projects\FriendSimulation\FriendSimulation\obj\Debug\FriendSimulation.Form2.resources
+C:\Users\Priyank\documents\visual studio 2012\Projects\FriendSimulation\FriendSimulation\obj\Debug\FriendSimulation.Form3.resources
+C:\Users\Priyank\documents\visual studio 2012\Projects\FriendSimulation\FriendSimulation\obj\Debug\FriendSimulation.Form4.resources
+C:\Users\Priyank\documents\visual studio 2012\Projects\FriendSimulation\FriendSimulation\obj\Debug\FriendSimulation.Form5.resources
+C:\Users\Priyank\documents\visual studio 2012\Projects\FriendSimulation\FriendSimulation\obj\Debug\FriendSimulation.Form6.resources
+C:\Users\Priyank\documents\visual studio 2012\Projects\FriendSimulation\FriendSimulation\obj\Debug\FriendSimulation.Properties.Resources.resources
+C:\Users\Priyank\documents\visual studio 2012\Projects\FriendSimulation\FriendSimulation\obj\Debug\FriendSimulation.csproj.GenerateResource.Cache
+C:\Users\Priyank\documents\visual studio 2012\Projects\FriendSimulation\FriendSimulation\obj\Debug\FriendSimulation.exe
+C:\Users\Priyank\documents\visual studio 2012\Projects\FriendSimulation\FriendSimulation\obj\Debug\FriendSimulation.pdb
